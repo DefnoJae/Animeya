@@ -1,1 +1,13 @@
-
+{
+  "id": "animeya",
+  "name": "Animeya",
+  "description": "Animeya anime provider with separate sub/dub selection and labelled subtitle variants.",
+  "version": "1.0.0",
+  "author": "DefnoJae",
+  "type": "onlinestream-provider",
+  "language": "javascript",
+  "lang": "en",
+  "manifestURI": "https://raw.githubusercontent.com/DefnoJae/Animeya/main/Manifest.json",
+  "payloadURI": "https://raw.githubusercontent.com/DefnoJae/Animeya/main/provider.js",
+  "website": "https://animeya.cc/home"
+}
